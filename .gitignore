@@ -15,3 +15,5 @@ build/
 *.png
 !assets/*.jpg
 !assets/*.png
+!docs/*.jpg
+!docs/*.png
