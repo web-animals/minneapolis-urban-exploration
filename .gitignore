@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+dist/
+build/
+*.mp4
+*.mov
+*.jpg
+*.png
+!assets/*.jpg
+!assets/*.png
